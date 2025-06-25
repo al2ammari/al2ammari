@@ -65,17 +65,17 @@ I specialize in building clean, scalable, and maintainable applications using mo
 * 🌐 **Chat App (Web App)**
     * Full-stack real-time messaging app with private/group chats and calling features.
     * **Tech:** Node.js, Express.js, WebSocket, MySQL, React.js, Context, React-query.
-    <!-- * [**Explore the Repository**](YOUR_CHAT_APP_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)
+    <!-- * [**Explore the Repository**](YOUR_CHAT_APP_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
 * 🛒 **E-commerce (Web App)**
     * Simplified RESTful API building with a mini e-commerce dashboard.
     * **Tech:** Node.js, Express.js, MySQL, MVC, React.js, Redux.
-    <!-- * [**Explore the Repository**](YOUR_E_COMMERCE_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)
+    <!-- * [**Explore the Repository**](YOUR_E_COMMERCE_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
 * 📱 **My Debts (Mobile)** (If this is a separate project not covered above, add its details. Otherwise, remove this line)
     * *If "My Debts" is a project not detailed in your CV, you'll need to add its description and technologies here.*
     * **Tech:** Flutter, Bloc, SQLite (Placeholder - verify or remove if not applicable)
-    <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)
+    <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
 ---
 

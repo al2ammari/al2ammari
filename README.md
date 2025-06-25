@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Omar Al-Ammari</h1>
+<h1 align="center">👋 Hi, I'm Omar</h1>
 
 <p align="center">
   💻 Full-Stack Developer | 📱 Flutter Developer
@@ -12,8 +12,13 @@
   <a href="mailto:al22ammari@gmail.com">📧 al22ammari@gmail.com</a> •
   <a href="https://github.com/al2ammari" target="_blank">💻 GitHub</a> •
   <a href="https://linkedin.com/in/al2ammari" target="_blank">🔗 LinkedIn</a>
+  
 </p>
 
+<!--Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al2ammari)
+-->
 ## 🧠 About Me
 
 I’m a results-driven full-stack developer with a strong foundation in both frontend and backend development, with a particular passion for **Flutter**, **Node.js**, and **modern architectural patterns** like **MVVM** and **Clean Architecture**. I enjoy solving real-world problems, learning new technologies, and collaborating with teams to build impactful software.

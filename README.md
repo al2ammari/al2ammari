@@ -32,7 +32,6 @@ I specialize in building clean, scalable, and maintainable applications using mo
 * 💬 Feel free to ask me anything about **JavaScript, TypeScript, React, Node.js, Flutter, Laravel, or database design.**
 * ⚡ Fun Fact: I love solving complex problems and optimizing code for performance!
 -->
----
 
 ## 💼 Professional Experience
 

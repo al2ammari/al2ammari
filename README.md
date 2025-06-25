@@ -1,20 +1,21 @@
-<h1 align="center">👋 Hi, I'm Omar</h1>
-
-<p align="center">
-  💻 Full-Stack Developer | 📱 Flutter Developer
-</p>
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">Full-Stack Developer | Flutter Developer</h3>
 
 <!-- 
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile views" />
 </p>
 -->
+### Connect with me:
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:al22ammari@gmail.com)](mailto:al22ammari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/al22ammari)](https://www.linkedin.com/in/al22ammari)
+<!-- 
 <p align="center">
   <a href="mailto:al22ammari@gmail.com">📧 al22ammari@gmail.com</a> •
   <a href="https://github.com/al2ammari" target="_blank">💻 GitHub</a> •
   <a href="https://linkedin.com/in/al2ammari" target="_blank">🔗 LinkedIn</a>
   
 </p>
-
+-->
 <!--Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al2ammari)
@@ -158,7 +159,7 @@ I specialize in building clean, scalable, and maintainable applications using mo
 * Data Analysis Using Python – *UST* 
 * ICDL – *UST* 
 * Leadership skills – *UST* 
-
+<!--
 ---
 
 ## 📬 Connect With Me
@@ -173,3 +174,4 @@ I specialize in building clean, scalable, and maintainable applications using mo
 <p align="center">
   <img src="https://media.giphy.com/media/LmN8EsTEjB68pNYyUf/giphy.gif" width="60" />
 </p>
+-->

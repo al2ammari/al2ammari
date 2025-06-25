@@ -87,7 +87,7 @@ I specialize in building clean, scalable, and maintainable applications using mo
 
 ### 💡 Core Concepts & Methodologies & Architecture
 
-`OOP` • `Data Structures & Algorithms ` • `SOLID Principles` • `Design Patterns` • `SDLC` • `Agile Methodology` • `UML` • `Clean Architecture` • `MVVM` • `MVC` • `CI/CD` • `Caching` • `Debugging` • `Unit Testing` • `Dependency Injection`• `Cloud Computing Concepts` • `Containerization` • `RESTful API` • `Websocket` • `GraphQL` • `SOLID` 
+`OOP` • `Data Structures & Algorithms ` • `SOLID Principles` • `Design Patterns` • `SDLC` • `Agile Methodology` • `UML` • `Clean Architecture` • `MVVM` • `MVC` • `CI/CD` • `Caching` • `Debugging` • `Unit Testing` • `Dependency Injection`• `Cloud Computing Concepts` • `Containerization` • `RESTful API` • `Websocket` • `GraphQL`
 
 ### 💻 Programming Languages
 

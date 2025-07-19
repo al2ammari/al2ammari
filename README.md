@@ -7,7 +7,7 @@
 -->
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:o.alammari.eng@gmail.com)](mailto:o.alammari.eng@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/al22ammari)](https://www.linkedin.com/in/al22ammari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/o-alammari)](https://www.linkedin.com/in/o-alammari)
 <!-- 
 <p align="center">
   <a href="mailto:al22ammari@gmail.com">📧 al22ammari@gmail.com</a> •

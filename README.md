@@ -15,8 +15,8 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 <h3 >Connect with me:</h3>
   
-  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=mailto:o.alammari.eng@gmail.com)](mailto:o.alammari.eng@gmail.com)
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/o-alammari)
+  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=mailto:omar.alammariy@gmail.com)](mailto:omar.alammariy@gmail.com)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/omar-alammari)
 
 ---
 

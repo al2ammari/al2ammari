@@ -12,6 +12,8 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 - 🌱 I’m currently curious about web and mobile development.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Node.js](https://nodejs.org), [React.js](https://react.dev/), [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [Python](https://www.python.org/).
+- 📫 How to reach me **omar.alammariy@gmail.com**
+
 
 <h3 >Connect with me:</h3>
   
@@ -23,7 +25,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ## 💼 Professional Experience
 
-* 🧑‍💼 **Technical Support – Ebda3 Soft Systems** | Feb 2025 – Present 
+* 🧑‍💼 **Technical Support – Ebda3 Soft Systems** | Feb 2025 – May 2025 
 
 * 🧑‍💻 **Freelance Node.js Developer – URL Shortener Backend** | May 2025 
 
@@ -76,7 +78,8 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ### 🖥 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -101,9 +104,9 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
@@ -116,7 +119,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 * **B.Sc. in Information Technology** – University of Science & Technology, Yemen (2020–2024) 
     * **GPA:** 90.53% – Excellent (Equivalent to 4.0/4.0) 
@@ -125,6 +128,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ### 📚 Courses & Certifications
 
+* AWS Cloud Practitioner Essentials - *AWS Skill Builder*
 * Developing web applications using MERN Node.js – *Mahara-Tech* 
 * Oracle Apex Program – *Horizon Company* 
 * The A Complete Flutter Development Guide – *Udemy* 

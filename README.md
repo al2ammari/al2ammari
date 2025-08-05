@@ -1,67 +1,37 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">Full-Stack Developer | Flutter Developer</h3>
 
-<!-- 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile views" />
-</p>
--->
-### Connect with me:
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:o.alammari.eng@gmail.com)](mailto:o.alammari.eng@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/o-alammari)](https://www.linkedin.com/in/o-alammari)
-<!-- 
-<p align="center">
-  <a href="mailto:al22ammari@gmail.com">📧 al22ammari@gmail.com</a> •
-  <a href="https://github.com/al2ammari" target="_blank">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/al2ammari" target="_blank">🔗 LinkedIn</a>
-  
-</p>
--->
-<!--Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al2ammari)
--->
+
 ## 🧠 About Me
 
 I’m a results-driven full-stack developer with a strong foundation in both frontend and backend development, with a particular passion for **Flutter**, **Node.js**, and **modern architectural patterns** like **MVVM** and **Clean Architecture**. I enjoy solving real-world problems, learning new technologies, and collaborating with teams to build impactful software.
 
+
+- 🔭 I’m currently working on improving my skills as a software engineer.
+- 🌱 I’m currently curious about web and mobile development.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about [Node.js](https://nodejs.org), [React.js](https://react.dev/), [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [Python](https://www.python.org/).
+
+<h3 >Connect with me:</h3>
+  
+  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=mailto:o.alammari.eng@gmail.com)](mailto:o.alammari.eng@gmail.com)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/o-alammari)
+
 ---
-<!-- 
----
 
-## 👨‍💻 About Me
-
-I'm a passionate **Full-Stack Developer** from Ibb, Yemen 🇾🇪, holding a B.Sc. in Information Technology from the University of Science & Technology, Yemen (2020-2024). I achieved an excellent GPA of 90.53% (equivalent to 4.0/4.0). My expertise spans both web and mobile development, with hands-on experience in **Flutter**, **React**, **Node.js**, and **Laravel**.
-
-I specialize in building clean, scalable, and maintainable applications using modern architectural patterns such as **MVVM** and **Clean Architecture**, with a strong focus on performance and user experience.
-
-* 🌱 I'm continuously learning and exploring new technologies in full-stack development.
-* 💬 Feel free to ask me anything about **JavaScript, TypeScript, React, Node.js, Flutter, Laravel, or database design.**
-* ⚡ Fun Fact: I love solving complex problems and optimizing code for performance!
--->
 
 ## 💼 Professional Experience
 
 * 🧑‍💼 **Technical Support – Ebda3 Soft Systems** | Feb 2025 – Present 
-    * Implementing and supporting the company's financial and accounting systems for clients.
-    * Managing software installation, client training, and providing ongoing technical support.
 
-* 🧑‍💻 **Freelance Backend Developer – URL Shortener Backend** | May 2025 
-    * Developed a backend service for URL shortening with Koa.js, MVC architecture, and PostgreSQL.
-    * Includes full authentication with JWT, secure API endpoints, and tracking of shortened links.
-    * **Tech:** MVC, TypeScript, Koa.js, PostgreSQL, JWT.
+* 🧑‍💻 **Freelance Node.js Developer – URL Shortener Backend** | May 2025 
 
 * 🧑‍💻 **Freelance Flutter Developer – Smart Cart App** | Mar 2025 – Apr 2025 
-    * Built a shopping assistant app with authentication, social login, budget-based ingredient suggestions, and recipe API integration.
-    * **Tech:** Flutter, Clean Architecture, MVVM, Bloc, Firebase, Spoonacular API, Google, Facebook Auth, Hive.
 
 * 🧑‍💻 **Freelance Laravel Developer – Mnyzod Auction Store** | Jan 2025 – Feb 2025 
-    * Integrated OTO delivery gateway into Mnyzod auction platform to automate shipping and order tracking.
-    * Fetched available delivery providers from OTO API and built UI for users to select preferred courier using Laravel Blade.
-    * **Tech:** Laravel, Blade, RESTful API, OTO API, Webhook.
 
-* 👨‍💻 **Trainee Developer – Horizon Company** | Mar 2024 – Apr 2024 
-    * Co-led development of "Project Task," a time-tracking web app with user authentication, task timing (manual/automatic), and detailed reporting.
-    * **Tech:** Oracle Apex, Oracle DB, PL/SQL.
+* 👨‍💻 **Trainee Developer – Horizon Company** | Mar 2024 – Apr 2024
 
 ---
 
@@ -77,9 +47,12 @@ I specialize in building clean, scalable, and maintainable applications using mo
     * **Tech:** Node.js, Express.js, MySQL, MVC, React.js, Redux.
     <!-- * [**Explore the Repository**](YOUR_E_COMMERCE_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
-* 📱 **My Debts (Mobile)** (If this is a separate project not covered above, add its details. Otherwise, remove this line)
-    * *If "My Debts" is a project not detailed in your CV, you'll need to add its description and technologies here.*
+* 📱 **My Debts (Mobile)**
     * **Tech:** Flutter, Bloc, SQLite (Placeholder - verify or remove if not applicable)
+    <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
+
+* 📱 **Bookly App (Android - IOS)**
+    * **Tech:** Flutter, Bloc, Cubit, Clean Architecture, MVVM
     <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
 ---
@@ -148,6 +121,8 @@ I specialize in building clean, scalable, and maintainable applications using mo
 * **B.Sc. in Information Technology** – University of Science & Technology, Yemen (2020–2024) 
     * **GPA:** 90.53% – Excellent (Equivalent to 4.0/4.0) 
 
+---
+
 ### 📚 Courses & Certifications
 
 * Developing web applications using MERN Node.js – *Mahara-Tech* 
@@ -158,20 +133,9 @@ I specialize in building clean, scalable, and maintainable applications using mo
 * Flutter Advanced - Clean Architecture with MVVM in Arabic – *Udemy* 
 * Data Analysis Using Python – *UST* 
 * ICDL – *UST* 
-* Leadership skills – *UST* 
-<!--
----
-
-## 📬 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:al22ammari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/al2ammari)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/al2ammari)
-
-> 💡 *"Software is not just about code — it's about solving problems with clarity, empathy, and purpose."*
+* Leadership skills – *UST*
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/LmN8EsTEjB68pNYyUf/giphy.gif" width="60" />
-</p>
--->
+
+## Contribution activity
+[![Omar's Github Stats](https://github-readme-stats.vercel.app/api?username=o-alammari&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/o-alammari)

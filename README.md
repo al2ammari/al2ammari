@@ -39,6 +39,10 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ## 🚀 Featured Projects
 
+* 🌐 **URL Shortener Backend Service**
+    * **Tech:** Node.js, Express.js, WebSocket, MySQL, React.js, Context, React-query.
+  * [**Explore the Repository**](https://github.com/omar-alammari/url_shortener_backend) 
+
 * 🌐 **Chat App (Web App)**
     * Full-stack real-time messaging app with private/group chats and calling features.
     * **Tech:** Node.js, Express.js, WebSocket, MySQL, React.js, Context, React-query.
@@ -51,10 +55,12 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 * 📱 **My Debts (Mobile)**
     * **Tech:** Flutter, Bloc, SQLite (Placeholder - verify or remove if not applicable)
+    * [**Explore the Repository**](https://github.com/omar-alammari/my-debts) 
     <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
 * 📱 **Bookly App (Android - IOS)**
     * **Tech:** Flutter, Bloc, Cubit, Clean Architecture, MVVM
+    * [**Explore the Repository**](https://github.com/omar-alammari/bookly_app)
     <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
 ---

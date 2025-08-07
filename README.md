@@ -25,9 +25,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ## 💼 Professional Experience
 
-* 🧑‍💼 **Technical Support – Ebda3 Soft Systems** | Feb 2025 – May 2025 
-
-* 🧑‍💻 **Freelance Node.js Developer – URL Shortener Backend** | May 2025 
+* 🧑‍💼 **Technical Support Specialist – Accounting Systems – Ebda3 Soft Systems** | Feb 2025 – May 2025 
 
 * 🧑‍💻 **Freelance Flutter Developer – Smart Cart App** | Mar 2025 – Apr 2025 
 
@@ -40,7 +38,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 ## 🚀 Featured Projects
 
 * 🌐 **URL Shortener Backend Service**
-    * **Tech:** Node.js, Express.js, WebSocket, MySQL, React.js, Context, React-query.
+    * **Tech:** TypeScript, Node.js, Koa.js, PostgreSQL, RESTful, JWT, MVC Architecture.
   * [**Explore the Repository**](https://github.com/omar-alammari/url_shortener_backend) 
 
 * 🌐 **Chat App (Web App)**

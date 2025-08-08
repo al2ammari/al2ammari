@@ -51,7 +51,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
     * **Tech:** Node.js, Express.js, MySQL, MVC, React.js, Redux.
     <!-- * [**Explore the Repository**](YOUR_E_COMMERCE_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
-* 📱 **My Debts (Mobile)** [**Repository**](https://github.com/omar-alammari/my-debts) 
+* 📱 **Debt app (Mobile)** [**Repository**](https://github.com/omar-alammari/debt-app) 
     <!-- * **Tech:** Flutter, Bloc, SQLite (Placeholder - verify or remove if not applicable)
     * [**Explore the Repository**](https://github.com/omar-alammari/my-debts) 
     * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->

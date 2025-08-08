@@ -37,9 +37,9 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ## 🚀 Featured Projects
 
-* 🌐 **URL Shortener Backend Service**
-    * **Tech:** TypeScript, Node.js, Koa.js, PostgreSQL, RESTful, JWT, MVC Architecture.
-  * [**Explore the Repository**](https://github.com/omar-alammari/url_shortener_backend) 
+* 🌐 **URL Shortener Backend Service** [**Repository**](https://github.com/omar-alammari/url_shortener_backend) 
+    <!--* **Tech:** TypeScript, Node.js, Koa.js, PostgreSQL, RESTful, JWT, MVC Architecture.
+  * [**Explore the Repository**](https://github.com/omar-alammari/url_shortener_backend)-->
 
 * 🌐 **Chat App (Web App)**
     * Full-stack real-time messaging app with private/group chats and calling features.
@@ -51,15 +51,15 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
     * **Tech:** Node.js, Express.js, MySQL, MVC, React.js, Redux.
     <!-- * [**Explore the Repository**](YOUR_E_COMMERCE_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
-* 📱 **My Debts (Mobile)**
-    * **Tech:** Flutter, Bloc, SQLite (Placeholder - verify or remove if not applicable)
+* 📱 **My Debts (Mobile)** [**Repository**](https://github.com/omar-alammari/my-debts) 
+    <!-- * **Tech:** Flutter, Bloc, SQLite (Placeholder - verify or remove if not applicable)
     * [**Explore the Repository**](https://github.com/omar-alammari/my-debts) 
-    <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
+    * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
-* 📱 **Bookly App (Android - IOS)**
-    * **Tech:** Flutter, Bloc, Cubit, Clean Architecture, MVVM
+* 📱 **Bookly App (Android - IOS)** [**Repository**](https://github.com/omar-alammari/bookly_app)
+    <!-- * **Tech:** Flutter, Bloc, Cubit, Clean Architecture, MVVM
     * [**Explore the Repository**](https://github.com/omar-alammari/bookly_app)
-    <!-- * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
+    * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
 ---
 

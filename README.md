@@ -41,15 +41,16 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
     <!--* **Tech:** TypeScript, Node.js, Koa.js, PostgreSQL, RESTful, JWT, MVC Architecture.
   * [**Explore the Repository**](https://github.com/omar-alammari/url_shortener_backend)-->
 
-* 🌐 **Chat App (Web App)**
-    * Full-stack real-time messaging app with private/group chats and calling features.
+* 💬 **Chat App – Full-Stack Messaging Application** [**Repository**](https://github.com/omar-alammari/chat-app) 
+    <!-- * Full-stack real-time messaging app with private/group chats and calling features.
+    * Developed a full-stack real-time chat app using React, Node.js/Express, and Socket.io with MySQL for storage.
+    * Implemented user authentication, private messaging, and live chat updates using JWT for secure sessions.
     * **Tech:** Node.js, Express.js, WebSocket, MySQL, React.js, Context, React-query.
-    <!-- * [**Explore the Repository**](YOUR_CHAT_APP_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
+    * [**Explore the Repository**](YOUR_CHAT_APP_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
 
-* 🛒 **E-commerce (Web App)**
-    * Simplified RESTful API building with a mini e-commerce dashboard.
-    * **Tech:** Node.js, Express.js, MySQL, MVC, React.js, Redux.
-    <!-- * [**Explore the Repository**](YOUR_E_COMMERCE_REPO_LINK_OR_LIVE_DEMO) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
+* 🛒 **E-commerce Dashboard - Full-Stack (React & Node.js)**
+    <!--  * Simplified RESTful API building with a mini e-commerce dashboard. -->
+    * Built a mini e-commerce web app with a simplified RESTful API, using Technologies: Node.js, Express, MySQL (MVC), and React, Redux.
 
 * 📱 **Debt app (Mobile)** [**Repository**](https://github.com/omar-alammari/debt-app) 
     <!-- * **Tech:** Flutter, Bloc, SQLite (Placeholder - verify or remove if not applicable)
@@ -60,6 +61,9 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
     <!-- * **Tech:** Flutter, Bloc, Cubit, Clean Architecture, MVVM
     * [**Explore the Repository**](https://github.com/omar-alammari/bookly_app)
     * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
+* 🌐 **A System for Managing and Diagnosing Dental Diseases Using Deep Learning | Graduation project** <!-- [**Repository**](https://github.com/omar-alammari/url_shortener_backend) -->
+    * Built a dental clinic management system integrated with a YOLOv8 deep learning model for detecting five dental diseases from panoramic X-rays, achieving 98% precision.
+    * Technologies: C#, Python, Flask, YOLOv8, SQL Server.
 
 ---
 

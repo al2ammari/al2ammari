@@ -86,7 +86,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
     <!-- * **Tech:** Flutter, Bloc, Cubit, Clean Architecture, MVVM
     * [**Explore the Repository**](https://github.com/omar-alammari/bookly_app)
     * [**Explore the Repository**](YOUR_MY_DEBTS_REPO_LINK_IF_ANY) | [**Live Demo**](YOUR_LIVE_DEMO_LINK_IF_ANY)-->
-* 🌐 **A System for Managing and Diagnosing Dental Diseases Using Deep Learning | Graduation project** <!-- [**Repository**](https://github.com/omar-alammari/url_shortener_backend) -->
+* 🌐 **A System for Managing and Diagnosing Dental Diseases Using Deep Learning | Graduation project** [**Repository**](https://github.com/omar-alammari/Dental-Disease-Detection-and-Clinic-Management) 
     * Built a dental clinic management system integrated with a YOLOv8 deep learning model for detecting five dental diseases from panoramic X-rays, achieving 98% precision.
     * Technologies: C#, Python, Flask, YOLOv8, SQL Server.
 

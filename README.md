@@ -5,14 +5,39 @@
 
 ## 🧠 About Me
 
-I’m a results-driven full-stack developer with a strong foundation in both frontend and backend development, with a particular passion for **Flutter**, **Node.js**, and **modern architectural patterns** like **MVVM** and **Clean Architecture**. I enjoy solving real-world problems, learning new technologies, and collaborating with teams to build impactful software.
+I am a **Full-Stack Developer** passionate about creating scalable, user-centric software solutions.  
+I have hands-on experience in **web and mobile development** using **Python, JavaScript/TypeScript, React/Next.js, Node.js, Flutter, and Laravel**, and I apply software architectures like **Clean Architecture, MVVM, and MVC** to ensure clean and maintainable solutions.  
 
+My journey includes freelancing as a **Flutter developer** on *Smart Cart App*, a shopping assistant with auth, social login, and recipe API integration; working as a **Laravel developer** on *Mnyzod Auction Store*, where I integrated the OTO delivery API for automated shipping and courier tracking; and interning at **Horizon Company**, co-developing a time-tracking app (*Project Task*) with Oracle Apex and PL/SQL.  
+
+I enjoy solving **real-world problems**, exploring **new technologies**, and collaborating with teams to build impactful software products. 🚀  
+
+- 🔭 I’m currently working on improving my skills as a software engineer.  
+- 🌱 Curious about web and mobile development.  
+- 👯 Looking to collaborate on open source projects.  
+- 💬 Ask me about **Node.js, React/Next.js, Flutter, Dart, Firebase, Python**.  
+- 📫 Reach me at **omar.alammariy@gmail.com**
+
+<!--
+I am a **Full-Stack Developer** passionate about creating scalable, user-centric software solutions.  
+I have hands-on experience in **web and mobile development** using **Python, JavaScript/TypeScript, React/Next.js, Node.js, Flutter, and Laravel**, and I apply software architectures like **Clean Architecture, MVVM, and MVC** to ensure clean and maintainable solutions.  
+
+I am a Full-Stack Developer passionate about creating scalable, user-centric software solutions. I have hands-on experience in web and mobile development using Python, JavaScript/TypeScript, React/Next.js, Node.js, Flutter, and Laravel, and I apply software architectures like Clean Architecture, MVVM, and MVC to ensure clean and maintainable solutions.
+
+My journey includes freelancing as a Flutter developer on Smart Cart App, a shopping assistant with auth, social login, and recipe API integration; working as a Laravel developer on Mnyzod Auction Store, where I integrated the OTO delivery API for automated shipping and courier tracking; and interning at Horizon Company, co-developing a time-tracking app (Project Task) with Oracle Apex and PL/SQL.
+
+I enjoy solving real-world problems, exploring new technologies, and collaborating with teams to build impactful software products. 🚀
+ I’m a Full-Stack Developer with experience in Flutter, Laravel, Node.js, React/Next.js, Python, and AWS. I focus on building scalable web and mobile apps, applying architectures like Clean Architecture, MVVM, and MVC, and integrating APIs to deliver real-world solutions.
+
+Full-Stack Developer with hands-on experience in building scalable web and mobile applications and integrating third-party APIs. Skilled in Python, JavaScript/TypeScript, React/Next.js, Node.js, Flutter, and Laravel, with a strong background in Clean Architecture, MVVM, and MVC.
+I’m a results-driven full-stack developer with a strong foundation in both frontend and backend development, with a particular passion for **Flutter**, **Node.js**, and **modern architectural patterns** like **MVVM** and **Clean Architecture**. I enjoy solving real-world problems, learning new technologies, and collaborating with teams to build impactful software.
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
 - 🌱 I’m currently curious about web and mobile development.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Node.js](https://nodejs.org), [React.js](https://react.dev/), [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [Python](https://www.python.org/).
 - 📫 How to reach me **omar.alammariy@gmail.com**
+-->
 
 
 <h3 >Connect with me:</h3>
@@ -31,7 +56,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 * 🧑‍💻 **Freelance Laravel Developer – Mnyzod Auction Store** | Jan 2025 – Feb 2025 
 
-* 👨‍💻 **Trainee Developer – Horizon Company** | Mar 2024 – Apr 2024
+* 👨‍💻 **Trainee Developer – Horizon Company** | Mar 2024 – Apr 2024 [**Live Demo**](https://apex.oracle.com/pls/apex/r/horizon_12/project-task/login)
 
 ---
 
